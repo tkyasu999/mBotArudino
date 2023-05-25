@@ -24,6 +24,7 @@
 - Open the target program.
 - Select Arudino IDE -> Tools -> Board -> Arudino Nano.
 - Arudino IDE -> Tools -> COM -> this time select COM5.
+- Click "Upload" button.
 
 ## Features
 - RGBLed.ino
@@ -31,6 +32,8 @@
 - UltrasonicRGBLed.ino
     - Using an infrared sensor to activate the function of LED lighting when smaller than 50 cm.
     - Left and right LEDs are turned on at 500ms intervals according to random values.
+- Move.ino
+    - Move by Motors.
 
 ## Reference
 - [Program mBot in Arduino IDE](https://support.makeblock.com/hc/en-us/articles/4419572961943-Program-mBot-in-Arduino-IDE)
