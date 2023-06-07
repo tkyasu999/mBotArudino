@@ -36,9 +36,12 @@
     - Move by Motors.
 - PushButtonMove.ino
     - Move by Button.
+- Melody.ino
+    - The sound output.
 
 ## Reference
 - [Program mBot in Arduino IDE](https://support.makeblock.com/hc/en-us/articles/4419572961943-Program-mBot-in-Arduino-IDE)
+- [音の出力](http://maicommon.ciao.jp/ss/Arduino_g/sound/index.htm)
 
 ## Author
 - superbunnbun
