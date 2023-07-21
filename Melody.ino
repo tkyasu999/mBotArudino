@@ -1,7 +1,7 @@
 /**
- * \par Copyright (C), 2023, superbunnbun
+ * \par Copyright (C), 2023, tkyasu999
  * @file    Melody.ino
- * @author  superbunnbun
+ * @author  tkyasu999
  * @version V1.0.0
  * @date    2023/05/29
  * @brief   Description: this file is sample code of the sound output.

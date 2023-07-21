@@ -44,7 +44,7 @@
 - [音の出力](http://maicommon.ciao.jp/ss/Arduino_g/sound/index.htm)
 
 ## Author
-- superbunnbun
+- tkyasu999
 
 ## Licence
 [MIT](https://github.com/superbunnbun/mBotArudino/blob/main/LICENSE)

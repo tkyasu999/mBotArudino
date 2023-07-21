@@ -1,7 +1,7 @@
 /**
- * \par Copyright (C), 2023, superbunnbun
+ * \par Copyright (C), 2023, tkyasu999
  * @file    RGBLed.ino
- * @author  superbunnbun
+ * @author  tkyasu999
  * @version V1.0.0
  * @date    2023/05/21
  * @brief   Description: this file is sample code of RGB LED for mBot.
