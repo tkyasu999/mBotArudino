@@ -40,6 +40,8 @@
     - The sound output.
 - Blink.ino
     - Turns an LED on for one second, then off for one second, repeatedly.
+- LineFollow.ino
+    - Detects and moves on the black line.
 
 ## Reference
 - [Program mBot in Arduino IDE](https://support.makeblock.com/hc/en-us/articles/4419572961943-Program-mBot-in-Arduino-IDE)
